@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DP-I/ClimbingStairs/ClimbingStairs.iml" filepath="$PROJECT_DIR$/DP-I/ClimbingStairs/ClimbingStairs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-2/DP-2.iml" filepath="$PROJECT_DIR$/DP-2/DP-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/DP-I.iml" filepath="$PROJECT_DIR$/DP-I/DP-I.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-2/Grid_Unique_Path/Grid_Unique_Path.iml" filepath="$PROJECT_DIR$/DP-2/Grid_Unique_Path/Grid_Unique_Path.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/HouseRobber/HouseRobber.iml" filepath="$PROJECT_DIR$/DP-I/HouseRobber/HouseRobber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-I/HouseRobber2/HouseRobber2.iml" filepath="$PROJECT_DIR$/DP-I/HouseRobber2/HouseRobber2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-I/NinjasTraining/NinjasTraining.iml" filepath="$PROJECT_DIR$/DP-I/NinjasTraining/NinjasTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/frogJump/frogJump.iml" filepath="$PROJECT_DIR$/DP-I/frogJump/frogJump.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/frogJumpWithKstep/frogJumpWithKstep.iml" filepath="$PROJECT_DIR$/DP-I/frogJumpWithKstep/frogJumpWithKstep.iml" />
     </modules>
