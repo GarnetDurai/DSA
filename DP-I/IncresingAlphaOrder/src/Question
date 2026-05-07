@@ -1,0 +1,14 @@
+📄 Problem Statement
+
+You are given a 2D grid of size N × M consisting of lowercase English characters.
+
+From any cell, you can move to any of its 8 adjacent neighbors (including diagonals).
+
+A path is considered valid if:
+
+Each move goes to an adjacent cell
+The character in the next cell is strictly greater than the current cell
+
+You are also given a starting character S.
+
+👉 Your task is to compute the length of the longest valid path starting from any cell containing character S.

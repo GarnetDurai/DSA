@@ -1,0 +1,13 @@
+Approch:
+Reverse topo sort
+
+
+since, They asked for the employees not in cycle(key point 1)
+and employee ending safe(key point 2) we use Reverse topo sort;
+
+
+
+Algorithm:
+->Take Out Degree of the Original graph
+->Reverse the Graph v -> u
+->Do regular topo sort procedure

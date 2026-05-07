@@ -8,12 +8,20 @@
       <module fileurl="file://$PROJECT_DIR$/DP-2/DP-2.iml" filepath="$PROJECT_DIR$/DP-2/DP-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/DP-I.iml" filepath="$PROJECT_DIR$/DP-I/DP-I.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSU/DSU.iml" filepath="$PROJECT_DIR$/DSU/DSU.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridDp/GridDp.iml" filepath="$PROJECT_DIR$/GridDp/GridDp.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-2/Grid_Unique_Path/Grid_Unique_Path.iml" filepath="$PROJECT_DIR$/DP-2/Grid_Unique_Path/Grid_Unique_Path.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/HouseRobber/HouseRobber.iml" filepath="$PROJECT_DIR$/DP-I/HouseRobber/HouseRobber.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/HouseRobber2/HouseRobber2.iml" filepath="$PROJECT_DIR$/DP-I/HouseRobber2/HouseRobber2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP-I/IncresingAlphaOrder/IncresingAlphaOrder.iml" filepath="$PROJECT_DIR$/DP-I/IncresingAlphaOrder/IncresingAlphaOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" filepath="$PROJECT_DIR$/KadanesAlgorithm/KadanesAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Binary_Search/MedianOfSortedArr/MedianOfSortedArr.iml" filepath="$PROJECT_DIR$/Binary_Search/MedianOfSortedArr/MedianOfSortedArr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSU/MergeAccount/MergeAccount.iml" filepath="$PROJECT_DIR$/DSU/MergeAccount/MergeAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-2/MinimumFallingPath/MinimumFallingPath.iml" filepath="$PROJECT_DIR$/DP-2/MinimumFallingPath/MinimumFallingPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/NinjasTraining/NinjasTraining.iml" filepath="$PROJECT_DIR$/DP-I/NinjasTraining/NinjasTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/ReverseTopSort/ReverseTopSort.iml" filepath="$PROJECT_DIR$/Graph/ReverseTopSort/ReverseTopSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KadanesAlgorithm/SubarrayAfterDeletion/SubarrayAfterDeletion.iml" filepath="$PROJECT_DIR$/KadanesAlgorithm/SubarrayAfterDeletion/SubarrayAfterDeletion.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-2/UniquePath2/UniquePath2.iml" filepath="$PROJECT_DIR$/DP-2/UniquePath2/UniquePath2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/frogJump/frogJump.iml" filepath="$PROJECT_DIR$/DP-I/frogJump/frogJump.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP-I/frogJumpWithKstep/frogJumpWithKstep.iml" filepath="$PROJECT_DIR$/DP-I/frogJumpWithKstep/frogJumpWithKstep.iml" />

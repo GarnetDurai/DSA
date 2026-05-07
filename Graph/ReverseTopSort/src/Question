@@ -1,0 +1,51 @@
+Find the Safe Employees — Who Can Leave the Cycle?
+
+A large IT company in Chennai has n employees numbered 0 to n-1. Each employee has a list of colleagues they report to or pass work to. This forms a directed network (graph).
+
+The HR team needs to identify "safe employees" — employees who are not stuck in any work loop (cycle) and whose entire work chain eventually ends at an employee who has no further dependencies (a terminal node).
+
+In simple terms:
+
+
+
+If you start from an employee and follow their work chain, do you eventually reach a dead end (no more dependencies)?
+If yes → that employee is SAFE
+If the chain goes in circles forever → that employee is UNSAFE
+
+
+Your task: Find all safe employees and print them in ascending order.
+
+If no employee is safe, print No safe employees found.
+
+Input format :
+The first line contains two integers n and e — number of employees and number of directed connections
+The next e lines each contain two integers u v — meaning employee u passes work to employee v
+Output format :
+Print all safe employee numbers in ascending order, space-separated on one line
+
+If no employee is safe, print No safe employees found
+
+Code constraints :
+1 <= n <= 104
+0 <= e <= 104
+0 <= u, v < n
+The graph may contain self-loops and cycles
+Sample test cases :
+Input 1 :
+7 8
+0 1
+0 2
+1 2
+1 3
+2 5
+3 0
+4 5
+6 6
+Output 1 :
+2 4 5
+Input 2 :
+4 2
+0 1
+2 3
+Output 2 :
+0 1 2 3

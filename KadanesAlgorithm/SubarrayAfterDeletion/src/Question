@@ -1,0 +1,30 @@
+🧾 Problem Statement
+
+You are given an integer array nums of size n.
+
+You are allowed to choose at most one distinct value x from the array and remove all occurrences of x from nums.
+
+After performing this operation (or choosing not to remove any element), your task is to find the maximum possible sum of a contiguous subarray from the resulting array.
+
+Return the maximum subarray sum achievable.
+
+⚠️ Important Notes
+Removing a value x means all elements equal to x are deleted
+The remaining elements retain their original order
+The resulting subarray must still be contiguous in the modified array
+You may also choose not to remove any element
+📥 Input Format
+First line: Integer n — size of the array
+Second line: n space-separated integers representing nums
+📤 Output Format
+A single integer — the maximum subarray sum after applying the operation optimally
+🧪 Example 1
+
+Input
+
+6
+1 -2 3 4 -2 3
+
+Output
+
+11
